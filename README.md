@@ -12,7 +12,9 @@ plus an absorbing `Dead` state. The model uses INSEE data for the initial distri
 π₀, P ⇒ π₁…π₁₀
 ```
 
-and produces charts and CSV tables of marginals over time.
+and produces charts and CSV tables of marginals over time. 
+
+We had a hard time focusing on US data also, we are currently rebuilding it because we add a problem at the end of the computation. Data on friendship would have been much only assumptions because we didn't foudn data that could helps find real link between status, except for very small unreliable studies
 
 ---
 
